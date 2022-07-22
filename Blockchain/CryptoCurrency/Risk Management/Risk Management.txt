@@ -1,0 +1,26 @@
+Risk Management -Template
+- Identify risk.
+- Analyze Risk portfolio potential effects.
+Risk Management -Measurement
+- Stop-Loss - Quantifies potential loss.
+- Take-Profit- Quantifies potential Profit.
+Risk Management -Instruments
+-Equity
+-Options
+-Futures
+Risk Management -Profiles*
+- Long-time investors -prefer Traditional assets e.g., bonds, stocks.
+- Short-time investors
+Risk Management -Strategy
+-Diversification; Mix of Asset classes.
+-Dollar Cost Averaging; Invest equal amounts of regular intervals, Reduce price volatility.
+-Asset Allocation; Equilibrium between reward and Risk.
+========================VALUE AT RISK (VaR=============
+Types of Methodologies
+1. Historical; Probability& Confidence intervals
+2.Monte-carlo
+3. Variance-Covariance
+
+
+============REFERENCES=====================
+https://acuityppm.com/ppm-101-portfolio-risk-management/
